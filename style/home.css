@@ -610,7 +610,7 @@ ul.slick-dots{
         }
         .body .slider {
             width: 100%;
-            height: auto;
+            height: 450px;
             margin-left: 0;
             order: 1;
         }
