@@ -686,6 +686,7 @@ ul.slick-dots{
         }
         .category .category-con{
             width: 33%;
+	    height: 100px;
         }
         .category .category-con:nth-child(6),
         .category .category-con:nth-child(5),
@@ -702,6 +703,7 @@ ul.slick-dots{
         }
         .category .category-con{
             width: 33%;
+	    height: 100px;
         }
         .category .category-con:nth-child(6),
         .category .category-con:nth-child(5),
